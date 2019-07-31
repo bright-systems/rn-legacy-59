@@ -1,0 +1,29 @@
+{
+  "name": "rn-legacy-59",
+  "version": "1.0.0",
+  "description": "Support for <= 0.59.9 packages in 0.60.x projects",
+  "main": "./lib/index.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/bright-systems/rn-legacy-59"
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Bright"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react-native": "^0.55.0"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+  "node": "*"
+  },
+  "scripts": {}
+}
